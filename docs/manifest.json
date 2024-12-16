@@ -1,0 +1,8 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Cashly",
+  "short_name": "Cashly",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
